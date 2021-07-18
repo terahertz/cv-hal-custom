@@ -1,0 +1,273 @@
+html,body {
+
+}
+
+#container {
+
+}
+
+h1{
+color:black;
+font: 1.2em &amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;quot;Garamond&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;quot;, sans-serif;
+}
+
+h2, h3, h4 {
+
+}
+
+a {
+
+    text-decoration: underline;
+text-decoration-color: gold;
+text-decoration-thickness: 4px;
+}
+
+a:hover {
+color:black;
+  background-color: gold;
+
+}
+}
+
+hr {
+
+}
+
+/***************************/
+
+/******** Widgets ********/
+.column-widget {
+background-color: #333333;
+}
+
+.widget {
+
+}
+.widget-header {
+background-color: white;
+color : #444440;
+text-decoration: underline;
+text-decoration-color: Chartreuse;
+text-decoration-thickness: 4px;
+}
+
+
+.widget-content {
+
+}
+.widget-footer {
+
+}
+.widget-footer a{
+
+}
+.widget-content ul{
+
+}
+.widget-content ul li{
+
+}
+.widget-content a .badge {
+
+}
+.widget-content a:hover .badge{
+
+}
+.widget-content .overflow {
+
+}
+
+/* Nuage de mots */
+.widget-keywords {
+
+}
+.keywords {
+
+}
+.keyword-1 {
+
+}
+.keyword-2 {
+
+}
+.keyword-3 {
+
+}
+.keyword-4 {
+
+}
+.keyword-5 {
+
+}
+.keyword-6 {
+
+}
+.widget-mesh {
+
+}
+
+/* Domaines */
+.widget-domain {
+
+}
+.domains {
+
+}
+
+/* Co-Auteurs */
+.widget-coauthors {
+
+}
+.coauthors {
+
+}
+.coauthors-list {
+
+}
+
+/* Export */
+.widget-export {
+
+}
+
+/* Widget Ext&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;eacute;rieur */
+.widget-ext {
+
+}
+
+/* Identifiants Chercheur */
+.widget-idext {
+
+}
+
+/* Mesh */
+.widget-mesh {
+
+}
+
+/* Consultation du CV */
+.widget-metrics {
+
+}
+
+/* Photo */
+.widget-photo {
+
+}
+
+/* Revues */
+.widget-revues {
+text-decoration: underline;
+text-decoration-color: DeepSkyBlue;
+text-decoration-thickness: 4px;
+}
+.revues {
+
+}
+.revues-list {
+
+}
+
+/* Projet ANR */
+.widget-anr {
+
+}
+.anr {
+
+}
+.anr-list {
+
+}
+
+/* Projet Europ&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;eacute;en */
+.widget-europ {
+
+}
+.europ {
+
+}
+.europ-list {
+
+}
+
+/* Structures */
+.widget-structures {
+
+}
+.structures {
+
+}
+.structures-list {
+
+}
+
+/* Ann&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;eacute;e de production */
+.widget-years {
+
+}
+.years {
+
+}
+.years-list {
+
+}
+
+/* R&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;eacute;seaux sociaux */
+.widget-socialurl {
+
+}
+/***************************/
+
+
+/******** Documents ********/
+.column-content {
+
+}
+.author-name {
+
+}
+.author-cv {
+
+}
+.counter-doc {
+
+}
+h2.nbdoc {
+
+}
+h2.nbdoc span.label-primary {
+
+}
+.doc-group {
+  }
+
+.doc-header {
+text-decoration: underline;
+text-decoration-color: DeepSkyBlue;
+text-decoration-thickness: 4px;
+}
+.doc-group .doc-header {
+
+}
+.doc-group .doc-list {
+
+}
+.doc-nb {
+font-weight: bold;
+color: black;
+}
+.doc-overflow {
+
+}
+.doc-hr {
+
+}
+.media {
+
+}
+.media-list {
+
+}
+.thumbnail {
+
+}
